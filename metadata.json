@@ -1,0 +1,6 @@
+{
+  "name": "OneGov Flow - Orchestration Layer",
+  "description": "Cross-department verification and data orchestration pipeline prototype for scholarship applications (SIH 2026 Phase 1).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
